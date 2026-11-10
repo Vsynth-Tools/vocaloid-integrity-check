@@ -24,8 +24,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/OWNER/vocaloid-integrity-check"
-Issues = "https://github.com/OWNER/vocaloid-integrity-check/issues"
+Homepage = "https://github.com/Vsynth-Tools/vocaloid-integrity-check"
+Issues = "https://github.com/Vsynth-Tools/vocaloid-integrity-check/issues"
 
 [project.scripts]
 vocaloid-integrity-check = "vocaloid_integrity_check.cli:main"
